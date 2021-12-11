@@ -1,0 +1,1 @@
+Pong AI for ESC180 pong tournament (http://www.cs.toronto.edu/~guerzhoy/180/pong/) that won 2nd place. Includes AI not implemented in tournament that utilizes RL to improve bot.
